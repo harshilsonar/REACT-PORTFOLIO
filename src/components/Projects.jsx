@@ -57,7 +57,7 @@ const Projects = () => {
             className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden"
           >
             <img
-              src="images.png"
+              src="https://rcity.in/rcity-admin/brand_logo/westside.png"
               alt="Project 2"
               className="w-full h-48 object-cover"
             />
@@ -95,7 +95,7 @@ const Projects = () => {
             className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden"
           >
             <img
-              src="download.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_K5IDfwWG9G6OXnvJFH7OwjTMOiCzwbFAA&s"
               alt="Project 3"
               className="w-full h-48 object-cover"
             />
