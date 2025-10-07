@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Slider navigation behind slides (subtle) */
+.slider-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 0; /* behind slides */
+  opacity: 0.75;
+}
+.slider-btn {
+  @apply rounded-full p-3 bg-white/50 hover:bg-white shadow;
+  backdrop-filter: blur(2px);
+}
