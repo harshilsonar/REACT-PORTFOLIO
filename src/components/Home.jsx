@@ -5,7 +5,7 @@ import Slider from "./Slider";
 const heroSlides = [
   {
     title: "Hi, I'm Harshil Sonar",
-    subtitle: "Full-Stack Web Developer • React • Tailwind",
+    subtitle: "MERN Stack Web Developer • React • Tailwind",
     image: "https://images.businessnewsdaily.com/app/uploads/2022/04/04074553/1554244010.jpeg"
   },
   {

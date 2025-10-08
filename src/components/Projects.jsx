@@ -57,7 +57,7 @@ const Projects = () => {
             className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden"
           >
             <img
-              src="https://rcity.in/rcity-admin/brand_logo/westside.png"
+              src="https://www.enkash.com/images/voucher-bg/westside.webp"
               alt="Project 2"
               className="w-full h-48 object-cover"
             />
